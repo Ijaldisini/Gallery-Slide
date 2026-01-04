@@ -7,28 +7,28 @@ const memories = [
     title: "Awal Cerita Kita",
     date: "12 Januari 2023",
     desc: "Di hari itu, tanpa rencana besar, kita bertemu. Tidak ada yang istimewa, sampai aku sadar—sejak saat itu, segalanya berubah.",
-    img: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1920&auto=format&fit=crop",
+    img: "/images/1.jpg",
   },
   {
     id: 2,
     title: "Langkah Pertama",
     date: "14 Februari 2023",
     desc: "Perjalanan pertama yang kita lalui bersama. Banyak tawa, cerita kecil, dan momen sederhana yang perlahan menjadi kenangan berharga.",
-    img: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=1920&auto=format&fit=crop",
+    img: "/images/2.jpg",
   },
   {
     id: 3,
     title: "Momen yang Tenang",
     date: "20 Mei 2023",
     desc: "Tidak selalu tentang pergi jauh. Kadang hanya duduk berdua, berbagi diam, dan merasa cukup—itu sudah lebih dari segalanya.",
-    img: "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=1920&auto=format&fit=crop",
+    img: "/images/3.jpg",
   },
   {
     id: 4,
     title: "Hari Ini & Selamanya",
     date: "Hari Ini",
     desc: "Terima kasih telah bertahan, berjalan, dan tumbuh bersamaku. Aku bersyukur, karena cerita ini kita tulis bersama.",
-    img: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?q=80&w=1920&auto=format&fit=crop",
+    img: "/images/4.jpg",
   },
 ];
 
