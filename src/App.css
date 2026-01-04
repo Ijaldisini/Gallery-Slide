@@ -1,0 +1,11 @@
+/* Kita menimpa style bawaan Vite agar Full Screen */
+#root {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  width: 100%;
+}
+
+/* Class bawaan Vite lainnya (.logo, .card, dll) boleh dihapus 
+   karena kita tidak pakai lagi. Biarkan file ini bersih. */
